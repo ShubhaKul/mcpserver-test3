@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "my-mcp-server": {
+        "type": "http",
+        "url": "http://20.112.17.217:8000/mcp"
+    }
+  }
+}
